@@ -99,17 +99,6 @@ NLP-powered system that matches resumes to job descriptions using TF-IDF & cosin
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ananya's GitHub stats](https://github-readme-stats-ananyasekar.vercel.app/api?username=AnanyaSekar&show_icons=true&theme=dark&title_color=e8001d&icon_color=e8001d&border_color=333)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnanyaSekar&theme=dark&ring=e8001d&fire=e8001d&currStreakLabel=e8001d&border=333333)
-
-</div>
-
----
 
 <div align="center">
 
