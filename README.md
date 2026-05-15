@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 2nd Year B.E. Computer Science @ **Bannari Amman Institute of Technology** (CGPA: 7.89 | SGPA: 8.0)
+- 🎓 3rd Year B.E. Computer Science @ **Bannari Amman Institute of Technology** (CGPA: 7.89 | SGPA: 8.0)
 - 🤖 Passionate about **AI/ML, NLP, RAG pipelines** and Full-Stack Development
 - 🏎 Built **PitWall AI** — an F1 intelligence platform with 22,126 real race laps, XGBoost ML, and RAG chatbot
 - 💼 **IBM SkillsBuild** virtual intern — AI & Digital Literacy
